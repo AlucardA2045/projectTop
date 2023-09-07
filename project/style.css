@@ -361,6 +361,9 @@ a {
 }
 
 @media (max-width: 540px) {
+  .work__item {
+    max-width: 350px;
+  }
   .smart__inner {
     flex-direction: column;
   }
