@@ -282,7 +282,9 @@ a {
 }
 
 .footer__content {
+  text-align: center;
   display: flex;
+  gap: 25px;
   justify-content: space-between;
 }
 
